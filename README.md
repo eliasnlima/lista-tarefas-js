@@ -2,6 +2,8 @@
 
 Este é um projeto simples de **Lista de Tarefas**, desenvolvido com **HTML**, **CSS** e **JavaScript**. O objetivo deste projeto é criar uma aplicação web onde os usuários podem adicionar e excluir tarefas de uma lista.
 
+link: https://lista-tarefas-h27k1960e-elias-nery-limas-projects.vercel.app
+
 ## Funcionalidades
 
 - **Adicionar Tarefa**: O usuário pode inserir uma tarefa e clicar no botão "Adicionar" para adicioná-la à lista.
